@@ -1,6 +1,5 @@
 # **Writing-and-Presentation-Week7**
 <h5>7 - 11 November 2022</h5>
-
 ---
 
 ## **Build Web Services and RESTful API with Express & Sequelize**
