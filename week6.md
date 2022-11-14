@@ -28,7 +28,11 @@
 
 &nbsp;
 - **MySql**
----
-
-- **Pengertian MYSQL**
-    <div align="justify">MYSQL adalah database server yang dapat di gunakan secara open source dimana menggunakan perintah dasar SQL yang cukup terkenal.
+    - MYSQL adalah database server yang dapat di gunakan secara open source dimana menggunakan perintah dasar SQL yang cukup terkenal.
+    - Kenapa kita harus menggunakan MySQL yaitu dikarenakan MySQL dapat di gunakan di berbagai Operation System seperti Windows, MacOS dan Linux. Selain MySQL juga open source dan juga gratis dalam penggunaannya.
+    - SQL Command
+        - SHOW DATABASES; ( untuk menampilkan seluruh daftar database pada mysql )
+            ```sql
+            SHOW DATABASES;
+            ```
+        
